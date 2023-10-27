@@ -16,4 +16,15 @@ Moonbeam has attatched their cryptographic policy and stated that the solution m
 - SSL with Signed Certificates for Server and User Authentication (client-to-site VPN).
 - Complex Pre-Shared Key for Gateway Authentication (site-to-site VPN)
 
+As per their request, I sent back an email providing details of the work to be completed and a price quote.
+
+![image](https://github.com/Flqmmable/VPN-Solution-Implementation/assets/129753283/50156172-a1fa-40d1-b8c4-9d3e2b95eea7)
+
+![image](https://github.com/Flqmmable/VPN-Solution-Implementation/assets/129753283/aac3420e-17da-4455-af94-d9d2c3f70b44)
+
+## The Solution
+
+
+
+
  
