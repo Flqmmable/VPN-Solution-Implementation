@@ -2,7 +2,7 @@
 
 I thought it would be fun to make a sort of storyboard which depicts a hypothetical scenario which is heavily inspired by course work I have recently completed as per my current cyber-security studies. The scenario involves implementing a (site-to-site and client-to-site) VPN solution within the premises of Moonbeam P.D, a police force agency located in the city of Miami.
 
-## Hiring and Scope of Work
+## Hiring Process and Job Information
 
 I recieved an email from Moonbeam P.D expressing their desire to implement a new firewall solution facilating a client-to-site and site-to-site VPN to allow their staff to access internal resources from remote operations and offices.
 
