@@ -12,7 +12,7 @@ Moonbeam has attatched their cryptographic policy and stated that the solution m
 
 - "AES-Compatible" or "Partially-AES-Compatible" Encryption Algorithmns.
 - SHA256 Hashing Function (as per NIST's recommendation).
-- IKEv2 with Diffie-Hellman Group 14 (2046 bits) for Key Exchanges.
+- IKEv2 with Diffie-Hellman Group 14 (2046 bit modulus) for Key Exchanges.
 - SSL with Signed Certificates for Server and User Authentication (client-to-site VPN).
 - Complex Pre-Shared Key for Gateway Authentication (site-to-site VPN)
 
