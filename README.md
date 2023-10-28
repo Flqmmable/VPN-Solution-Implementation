@@ -50,7 +50,7 @@ As mentioned before, I will be using IPsec for the client-to-site VPN; with the 
 
 ![image](https://github.com/Flqmmable/VPN-Solution-Implementation/assets/129753283/68effeec-21e0-4f3e-80b4-f48883010555)
 
-![image](https://github.com/Flqmmable/VPN-Solution-Implementation/assets/129753283/a2abacb3-d1f2-4106-be78-b0a0f9c47089)
+![image](https://github.com/Flqmmable/VPN-Solution-Implementation/assets/129753283/b886d10a-b3a3-481d-b084-55e0847eabcf)
 
 After this, both firewalls/gateways were able to authenticate each other to create a bidirectional access of internal network resources.
 
