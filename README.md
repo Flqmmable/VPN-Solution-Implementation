@@ -54,15 +54,25 @@ As mentioned before, I will be using IPsec for the client-to-site VPN; with the 
 
 After this, both firewalls/gateways were able to authenticate each other to create a bidirectional access of internal network resources.
 
-## Solution in Action
+## Client-to-Site Solution in Action
 
-This part of the storyboard will show the functionality of the implemented VPN solution.
-
-Via newly established client-to-site VPN, remote workers will now be able to access resources on the internal LAN from wherever they are by downloading an OpenVPN client, installing relevant user certificates and logging in with valid user credentials.
+Via the newly established client-to-site VPN, remote workers will now be able to access resources on the internal LAN from wherever they are by downloading an OpenVPN client, installing relevant user certificates and logging in with valid user credentials.
 
 ![image](https://github.com/Flqmmable/VPN-Solution-Implementation/assets/129753283/6624068a-ddc7-418d-94df-7de243e03a0b)
 
 ![image](https://github.com/Flqmmable/VPN-Solution-Implementation/assets/129753283/675c46d4-67d4-40a5-9aa4-f01c107a51c6)
+
+## Site-to-Site Solution in Action
+
+Via the newly established site-to-site VPN, machines within the internal LAN and the remote office's network will be able to communicate with it each other - enabling the sharing of network resources.
+
+The below screenshots demonstrate a machine (PC-A) within the internal LAN reaching a machine (PC-B) within the remote office's network, and vice versa. 
+
+![image](https://github.com/Flqmmable/VPN-Solution-Implementation/assets/129753283/a572b676-13f9-4049-964f-7be83fbcb405)
+
+![image](https://github.com/Flqmmable/VPN-Solution-Implementation/assets/129753283/a61002be-0514-41dc-b072-3ef69ffc0bfb)
+
+
 
 
 
